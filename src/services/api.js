@@ -6,33 +6,33 @@ export function loadLists() {
         cards: [
           {
             id: 1,
-            content: 'Estudar módulo 01 de NodeJS',
+            content: ' NodeJS',
             labels: ['#7159c1'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://barberimages2.s3.amazonaws.com/barber/sergio.png'
           },
           {
             id: 2,
-            content: 'Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy',
+            content: 'Youtube and Pipefy',
             labels: ['#7159c1'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://barberimages2.s3.amazonaws.com/barber/sergio.png'
           },
           {
             id: 3,
-            content: 'Estudar módulo 03 de React Native',
+            content: 'React Native',
             labels: ['#7159c1'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://barberimages2.s3.amazonaws.com/barber/sergio.png'
           },
           {
             id: 4,
-            content: 'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
+            content: 'NextJS: using server-side rendering with ReactJS"',
             labels: ['#54e1f7'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://barberimages2.s3.amazonaws.com/barber/sergio.png'
           },
           {
             id: 5,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Test e deploy ReactJS',
             labels: ['#54e1f7'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://barberimages2.s3.amazonaws.com/barber/sergio.png'
           },
         ]
       },
@@ -42,9 +42,9 @@ export function loadLists() {
         cards: [
           {
             id: 6,
-            content: 'Recriando clone do Pipefy',
+            content: 'clone Pipefy',
             labels: [],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://barberimages2.s3.amazonaws.com/barber/sergio.png'
           }
         ]
       },
@@ -54,19 +54,19 @@ export function loadLists() {
         cards: [
           {
             id: 7,
-            content: 'Gravar sobre Geolocalização e mapas com React Native',
+            content: 'Geolocalization and maps with React Native',
             labels: ['#7159c1'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://barberimages2.s3.amazonaws.com/barber/sergio.png'
           },
           {
             id: 8,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Deploy ReactJS',
             labels: ['#54e1f7'],
-            user: 'https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png'
+            user: 'https://barberimages2.s3.amazonaws.com/barber/sergio.png'
           },
           {
             id: 9,
-            content: 'Ajustes na biblioteca unform',
+            content: 'React Native ',
             labels: [],
           }
         ]
@@ -78,17 +78,17 @@ export function loadLists() {
         cards: [
           {
             id: 10,
-            content: 'Gravar aula sobre deploy e CI com React Native',
+            content: 'Deploy and CI with React Native',
             labels: [],
           },
           {
             id: 12,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Tests ReactJS',
             labels: ['#54e1f7'],
           },
           {
             id: 13,
-            content: 'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
+            content: 'Node.js, ReactJS and  React Native"',
             labels: ['#7159c1'],
           }
         ]
